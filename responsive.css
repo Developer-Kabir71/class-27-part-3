@@ -1,0 +1,198 @@
+@media (max-width:1320px){
+    .fixed-width {
+        padding: 0 15px;
+    }
+    .header-button .btn {
+        padding: 7px 10px;
+        font-size: 15px;
+    }
+}
+@media (max-width:1200px){
+    .menu ul li a {
+        padding: 0 10px;
+    }
+    
+    .header-button {
+        width: 14%;
+        padding-right: 50px;
+        box-sizing: border-box;
+    }
+    .content {
+        width: 96%;
+        margin-top: 20px;
+    }
+    .form-left {
+        width: 95%;
+    }
+    .form-right {
+        width: 95%;
+        margin-top: 20px;
+        padding-right: 20px;
+    }
+    .map-left iframe {
+        width: 205%;
+    }
+}
+@media (max-width:768px){
+    .banner-text h3 {
+        font-size: 23px;
+    }
+    .banner-text h2 {
+        font-size: 45px;
+    }
+}
+@media (max-width:1024px){
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .video-content-right h3 {
+        font-size: 35px;
+        margin-bottom: 10px;
+        margin-top: 25px;
+    }
+    .service-text h3 {
+        font-size: 50px;
+        font-weight: 500;
+    }
+    .service-box {
+        width: 48%;
+    }
+    .service-content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .image {
+        width: 46%;
+    }
+    .team-heading h2 {
+        font-size: 35px;
+    }
+    
+}
+
+.menu span {
+    display: none;
+}
+@media (max-width:992px){
+    .header-logo {
+        width: 100%;
+        text-align: center;
+    }
+    a.logo.f-left {
+        float: inherit;
+        position: relative;
+        top: 20px;
+    }
+    .f-left {
+        float: inherit;
+    }
+    .header-button .btn {
+        position: absolute;
+        right: 30px;
+        top: 90px;
+    }
+    .menu ul li a {
+        margin-top: 13px;
+        line-height: 59px;
+    }
+    .menu span {
+        color: #6278DF;
+        font-size: 30px;
+        position: relative;
+        top: 28px;
+        display: block;
+    }
+    .menu ul {
+        list-style: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+    nav {
+        position: relative;
+    }
+    .service-text h3 {
+        font-size: 35px;
+        font-weight: 500;
+    }
+    .subbtn {
+        margin-top: 11px;
+    }
+    .two-content {
+        width: 95%;
+        margin-left: 15px;
+    }
+}
+@media (max-width:825px){
+    .sdiv1 {
+        width: 48%;
+    }
+}
+@media (max-width:740px){
+    .menu ul li a {
+        padding: 0 5px;
+    }
+    .banner {
+        padding: 110px 0;
+    }
+    .service-box {
+        width: 98%;
+    }
+    .p-head h2 {
+        font-size: 35px;
+        font-weight: 400;
+    }
+    .team-heading h2 {
+        font-size: 25px;
+    }
+    .subscribe h2 {
+        font-size: 30px;
+    }
+    .inputt {
+        width: 90%;
+    }
+    .subscribe h2 {
+        font-size: 23px;
+    }
+    .blog p {
+        font-size: 18px;
+    }
+    .blog-h h2 {
+        font-size: 28PX;
+        font-weight: 600;
+    }
+    .top-content h2 {
+        font-size: 25px;
+    }
+    .top-review {
+        margin-right: 20px;
+    }
+}
+@media (max-width:568px){
+    .banner-text a {
+        font-size: 13px;
+    }
+    .banner {
+        padding: 110px 10px;
+    }
+    .sdiv1 {
+        width: 92%;
+    }
+    .image {
+        width: 100%;
+    }
+}
+@media (max-width:350px) {
+    .banner {
+        padding: 110px 20px;
+    }
+    .service-text h3 {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .team-heading h2 {
+        font-size: 20px;
+    }
+}

@@ -221,6 +221,7 @@ nav{
     margin-right: 2%;
     margin-bottom: 30px;
     padding: 25px;
+    float: left;
     box-sizing: border-box;
 }
 .s-icon {
@@ -261,6 +262,7 @@ nav{
 } 
 .sdiv1{
     width: 31.3%;
+    float: left;
     margin-right: 2%;
     box-shadow: 4px 4px 20px 0 rgba(0,0,0,.1);
     box-sizing: border-box; 
@@ -333,6 +335,7 @@ nav{
 }
 .image{
     width: 23%;
+    float: left;
     margin-top: 80px;
     margin-right: 2%;
     box-shadow: 4px 4px 20px 0 rgba(0,0,0,.3); 
@@ -426,6 +429,8 @@ nav{
 }
 .content{
     box-shadow: 4px 4px 20px 0 rgba(0,0,0,.3);
+    float: left;
+    margin-right: 15px;
 }
 .content img{
     width: 300px;
@@ -483,6 +488,7 @@ nav{
 .two-content{
     width: 30.3%;
     margin-right: 3%;
+    float: left;
 }
 .top-review p{
     margin-bottom: 30px;
@@ -525,10 +531,11 @@ nav{
     padding: 60px 0;
 }
 .map-left{
-    width: 50%;
+    width: 48%;
+    margin-right: 2%;
 }
 .form-right{
-    width: 50%;
+    width: 48%;
 }
 .form-right h3 {
     font-size: 25px;
